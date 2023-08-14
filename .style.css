@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+    text-decoration: none;
+}
+.counter {
+    width: 180px;
+    height: 100px;
+    background-color: rgb(80, 80, 109);
+    border-radius: 10px;
+    padding-top: 20px;
+    ;
+}
+.btn{
+    margin-left: 20px;
+    width: 30px ;
+    height: 20px;
+    background-color: rgb(80, 78, 78);
+    border: 0.5px solid rgb(174, 139, 139);
+    cursor: pointer;
+    border-radius: 3px;
+}
+.number{
+    margin-left: 80px;
+    
+}
+.minus{
+    width: 30px ;
+    height: 20px;
+    background-color: rgb(80, 78, 78);
+    border: 0.5px solid grey;
+    cursor: pointer;
+    border-radius: 3px;
+}
+button{
+    width: 30px;
+    height: 20px;
+    background-color: rgb(80, 78, 78);
+    border: 0.5px solid grey;
+    cursor: pointer;
+    border-radius: 3px;
+}
